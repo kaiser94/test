@@ -17,8 +17,7 @@
       "enforcePinnedTermsOnPlainText": true
     },
     "characters": {
-      "Su Xiaoxiao": {
-        "gender": "male"
+        "Su Xiaoxiao": {"gender":"male"},
       }
     },
     "terms": {}
