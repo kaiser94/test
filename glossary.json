@@ -1,0 +1,26 @@
+{
+  "wtr-lab.com/en/novel/14370/": {
+    "title": "The Ultimate Prank System Has Driven All the Enemies Crazy",
+    "description": "After scamming the person above you, you scam the person below you; upgrading and making money depends on everyone.",
+    "genre": "System, Action, Transmigration, Xianxia, Xuanhuan",
+    "novellink": "https://wtr-lab.com/en/novel/65910/the-ultimate-prank-system-has-driven-all-the-enemies-crazy",
+    "carryParagraphs": 3,
+    "upgrades": {
+      "anchoredFixes": true,
+      "verbBasedWindow": true,
+      "passiveVoice": true,
+      "dialogueSpeaker": true,
+      "roleHeuristicCarry": true,
+      "onlyChangeIfWrong": true,
+      "termMemoryAssist": true,
+      "enforcePinnedTermsOnPlainText": true
+    },
+    "characters": {
+      "Su Xiaoxiao": { "gender": "male", "aliases": }
+      
+    },
+    "terms": {
+    
+    }
+  }
+}
