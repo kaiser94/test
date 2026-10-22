@@ -1,3 +1,4 @@
+
 {
   "wtr-lab.com/en/novel/65910/": {
     "title": "The Ultimate Prank System Has Driven All the Enemies Crazy",
@@ -16,7 +17,8 @@
       "enforcePinnedTermsOnPlainText": true
     },
     "characters": {
-      "Su Xiaoxiao": {"gender":"male"},
+      "Su Xiaoxiao": {
+        "gender": "male"
       }
     },
     "terms": {}
