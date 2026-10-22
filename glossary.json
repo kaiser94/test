@@ -15,8 +15,8 @@
       "termMemoryAssist": true,
       "enforcePinnedTermsOnPlainText": true
     },
-    "Su Xiaoxiao": { "gender": "male", "aliases": ["苏小小"] },
-      }
+    "characters": {
+      "Su Xiaoxiao": { "gender": "male", "aliases": ["苏小小"] },
     },
     "terms": {}
   }
